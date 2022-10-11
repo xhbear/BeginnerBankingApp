@@ -1,5 +1,6 @@
 # BeginnerBankingApp
 Simple exercise implementing OOP principles, singelton, linkedlist.
+
 App features are added on-top of the basic design of stats91.
 
 # Reference:
