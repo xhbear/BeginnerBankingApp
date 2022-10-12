@@ -1,6 +1,9 @@
-public class Main {
-    public static void main(String[] args) {
+package beginnerbankapp;
 
-        System.out.println("Hello world!");
+public class Main {
+
+    public static void main(String[] args) {
+        KrabsBank bank = KrabsBank.getInstance();
+        bank.bankService();
     }
 }
